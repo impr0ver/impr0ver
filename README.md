@@ -1,6 +1,6 @@
-# Bonjour ! 🥖
+# Hi all ! 🥖
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+Here you will find some of my projects.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -58,11 +58,6 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
