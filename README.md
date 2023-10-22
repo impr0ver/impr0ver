@@ -2,8 +2,6 @@
 
 Here you will find some of my projects.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
