@@ -1,4 +1,4 @@
-# Hi all ! 👨‍💻
+# Hi all ! 
 
 Here you will find some of my projects.
 
