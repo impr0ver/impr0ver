@@ -1,4 +1,4 @@
-# Hi all ! 
+# Hello all ! 
 
 Here you will find some of my projects.
 
@@ -8,7 +8,7 @@ Here you will find some of my projects.
 
 [<img src="https://img.shields.io/badge/go-282C34?logo=Go&logoColor=blue" alt="Golang" title="Golang" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/c-282C34?logo=C&logoColor=F7DF1E" alt="c" title="c" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/c-282C34?logo=C&logoColor=F7DF1E" alt="C" title="C" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
