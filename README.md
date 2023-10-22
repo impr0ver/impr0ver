@@ -15,9 +15,9 @@ Here you will find some of my projects.
 
 ## 📖  What I am currently learning / improving on
 
-#[<img src="https://img.shields.io/badge/go-282C34?logo=firebase&logoColor=FFCA28" alt="Golang" title="Golang" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/go-282C34?logo=firebase&logoColor=FFCA28" alt="Golang" title="Golang" height="25" />][learning_now_anchor]
 #&nbsp;
-#[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
 
 [tech_tools_anchor]: #bonjour--
