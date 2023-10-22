@@ -6,9 +6,9 @@ Here you will find some of my projects.
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Golang-282C34?logo=golang&logoColor=F7DF1E" alt="Golang" title="Golang" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/go-282C34?logo=golang&logoColor=F7DF1E" alt="Golang" title="Golang" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=F7DF1E" alt="c" title="c" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
